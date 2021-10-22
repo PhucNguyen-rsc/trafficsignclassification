@@ -1,4 +1,4 @@
-# traffic sign classification
+# Traffic Sign Classification
 
 ## TABLE OF CONTENT
 1. Prepocess image
