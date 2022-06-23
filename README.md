@@ -10,6 +10,7 @@
 - [Tran Cong Thinh](https://github.com/trancongthinh6304)
 - [Nguyen Hoang Phuc](https://github.com/PhucNguyen-rsc)
 - [Vu Thi Quynh Nga](https://github.com/ngavu2004)
+- Tu Nguyen
 
 ## 1. Preprocess image
 ### a. Autoencoder model (Denoise image)
