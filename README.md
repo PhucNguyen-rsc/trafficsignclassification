@@ -6,6 +6,11 @@
 3. Ensemble models
 4. Deploy models
 
+## Team Members:
+[Tran Cong Thinh](https://github.com/trancongthinh6304)
+[Nguyen Hoang Phuc](https://github.com/PhucNguyen-rsc)
+[Vu Thi Quynh Nga](https://github.com/ngavu2004)
+
 ## 1. Preprocess image
 ### a. Autoencoder model (Denoise image)
 * In order to improve image resolution, we trained an auto encoder model.
